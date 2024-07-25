@@ -2,8 +2,8 @@
 {
     public class Car
     {
-        public string car {  get; set; }
-        public int year { get; set; }
-
+        public string CarModel {  get; set; }
+        public int Year { get; set; }
+        public string Color { get; set; }
     }
 }
